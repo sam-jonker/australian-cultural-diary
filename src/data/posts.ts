@@ -24,9 +24,15 @@ Australians are incredibly friendly and laid-back. The concept of "no worries" i
 
 I was surprised to learn that Australia has a serious coffee culture. They take their flat whites and long blacks very seriously! The cafe scene here is vibrant and social.
 
+![Australian cafe with flat white coffee](/images/australian-cafe.jpg)
+*A typical Australian cafe - where coffee is taken very seriously*
+
 ## Wildlife Encounters
 
 Even in the city, you can spot cockatoos, kookaburras, and possums. It's amazing how wildlife is integrated into urban life here.
+
+![Cockatoo in urban setting](/images/cockatoo-urban.jpg)
+*A sulphur-crested cockatoo I spotted in the city - these beautiful birds are everywhere!*
 
 ## Language Quirks
 
@@ -53,6 +59,11 @@ Aboriginal art tells stories of the Dreamtime - the creation period when ancestr
 ## Dot Painting
 
 The intricate dot painting technique is mesmerizing. What appears abstract at first reveals detailed stories about land, animals, and spiritual connections when you learn to read the symbols.
+
+![Traditional Aboriginal dot painting](/images/aboriginal-art.jpg)
+*Example of traditional dot painting with circular patterns representing Dreamtime stories*
+
+Each dot is carefully placed to create patterns that map country, track ancestral journeys, and encode sacred knowledge. The colors - ochre, red, yellow, and brown - come from the earth itself.
 
 ## Respect and Recognition
 
