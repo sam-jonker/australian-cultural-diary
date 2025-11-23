@@ -12,7 +12,7 @@ export const posts: BlogPost[] = [
     title: "The Magic Pudding: Food, Ingredients, and National Identity",
     date: "2025-9-26",
     excerpt: "Exploring the connection between culinary adaptation, multiculturalism, and shared national values through food.",
-    content: `# Food and Multiculturalism in Australia
+    content: `# FThe Magic Pudding: Food, Ingredients, and National Identity
 
 ![Collage of multicultural food in Australia](images/food.jpg)
 *A compiled collage of some of my favorite meals in Australia*
@@ -39,7 +39,7 @@ In our AS course, we’ve discussed how colonization, immigration, and the const
     title: "Surfs Up? More “Like Surf Life Saving Australia” is Up.",
     date: "2025-10-03",
     excerpt: "Reflections on Australia’s surf culture, volunteer-based surf lifesaving clubs, and why surfing is just so damn popular here",
-    content: `# Surf Culture and Life Saving Clubs
+    content: `# Surfs Up? More “Like Surf Life Saving Australia
 
 ![Collage of Surf Clubs and Beachs I've visited](images/life_saving_clubs.jpg)
 
@@ -63,7 +63,7 @@ At first glance, surf lifesaving clubs might not seem closely connected to our A
     title: "Let's Grab a Coffee? Work-life Balance in Australia",
     date: "2025-9-26",
     excerpt: "Reflecting on socialization and the work-life balance between Australia and US; TLDR Australia wins",
-    content: `# Work-life-balance in Australia
+    content: `# Let's Grab a Coffee? Work-life Balance in Australia
 
 ![Collage of multicultural food in Australia](images/work_life_balance.jpg)
 *A compiled collage of some of my favorite meals in Australia*
@@ -89,9 +89,9 @@ In our AS course, we’ve discussed how colonization, immigration, and the const
     title: "Ferry This, Ferry That: Alternative Transportation in Australia",
     date: "2025-11-03",
     excerpt: "Some assorted thoughts on all our delays, fun ferry trips, and how infrastructure changes our journey",
-    content: `# Ferries and Infrastructure in Australia
+    content: `# Ferry This, Ferry That: Alternative Transportation in Australia
 
-![Collage of some ferries we took on our time here](images/work_life_balance.jpg)
+![Collage of some ferries we took on our time here](images/ferry.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
@@ -109,5 +109,55 @@ On a personal level, these ferry rides have made me think a bit more about how t
 ## Course Connection
 
 I think this ferry topic, although narrow, connects to many of the themes we discussed in our environmental protection lecture. The introduction of environmental protection initiatives undoubtedly slows the rate of development, and additional government focus on protecting important ecosystems like marginal reefs (such as Minjerribah) clearly prevents the large-scale development of these places. Separately, I also think ferries can both advance reconciliation and, at times, complicate Aboriginal representation. For example, the ferry to Minjerribah brings large numbers of tourists to the island; some choose to engage in cultural activities like Welcome to Country or Aboriginal eco-tours. On the other hand, easier access also brings tourists who ignore cultural protocols, wander into restricted areas, or treat the Country as just another backdrop for their Instagram story or something. It’s interesting to draw parallels between ongoing development in Australia and reconciliation efforts; increasing tourism and transit opportunities bring real benefits, but they also create new challenges that Australia has to navigate carefully. `
+  },{
+    id: "6-sport-culture-in-australia",
+    title: "Going Up the Guts, and for Meat Pie: What sport is this?!",
+    date: "2025-10-29",
+    excerpt: "Reflections on sports culture, all the diffrent flavors of rugby, and national unity",
+    content: `# Going Up the Guts, and for Meat Pie: What sport is this?!
+
+![Collage of some ferries we took on our time here](images/work_life_balance.jpg)
+*A compiled collage of some of my favorite meals in Australia*
+
+## Description 
+
+For each of my diary entries, I decided to make a collage of photos that relate to the specific topic or post I’m writing about. In this collage, I pulled together pictures of different foods and dishes I ate across the program, with a particular emphasis on multicultural and non-Australian cuisines. Highlights include Khao Soi (a Northern Thai dish), Bún Bò Nam Bộ (a Vietnamese beef noodle salad), and a traditional burrata mortadella sandwich.
+
+## Personal Description
+
+I’ve never felt a room have so much enthusiasm, joy, and sorrow as when I was watching the AFL finals in a sports bar in downtown Sydney. Picture this: people standing on chairs, standing on tables, and shouting from on top of their mate’s shoulders. Beer is being splashed everywhere. Loud shouting from the basement floor to the top floor. And three very, very confused Americans sitting in the corner, shellshocked by the whole experience. The vibe, for lack of a better phrase, was absolutely electric. With the game underway, the sports betting was going crazy, with people placing their bets on all sorts of sports (not just the AFL finals) on machines, their phones, and everything in between. I’ve never seen 
+
+Although the sports betting culture appears to be significant in Australia, it’s essential to acknowledge that this culture is grounded in a broader enthusiasm for all sports throughout the country, encompassing rugby, netball, and cricket. Sports culture is something that everyone can get around, and seems to represent Australian unity even when individual sports teams may be divided. Individual teams are often tied to specific locations (Brisbane, Sydney teams, etc.), which allows community building and rallying behind a collective cause; this is something that everyone can get behind, from families to enthusiastic college students, and undoubtedly contributes to why sports culture is so dominant
+
+I really enjoyed throwing myself into the world of Australian sports, even as an outsider who didn’t know much going into these bars. Cheering for the Brisbane Lions (of course), trying to follow the rules of AFL in real time, and getting swept up in the shouting and collective groans made me feel unexpectedly connected to other fans in a way I haven’t really experienced before. I thought it was really cool, and I really enjoyed the experience of being pushed into engaging in new culture and a new environment. 
+
+## Course Connection
+
+	Sports culture is something we discussed in class to a certain extent, but it also indirectly connects to a lot of other Australian cultural themes and national attitudes. For instance, sports culture is a large source of national pride; As Australia is a relatively young country, having successful sports programs is seen as a victory for the underdog. Moments like Australia’s surprising World Cup performances or the famous Bradbury ice-skating win capture that underdog narrative perfectly, always somehow pulling off a win when no one expected it. I also think there is a sense of sports culture being beyond individuals and instead being a team effort, which I’m sure contributes a lot to the sense of having a strong national unity. `
+  },{
+    id: "7-brown-lake-culture",
+    title: "The Cultural Clash of Brown Lake",
+    date: "2025-11-18",
+    excerpt: "Exploring how tourism interplays with Aboriginal claims to Brown Lake in Quandamooka Country",
+    content: `# The Cultural Clash of Brown Lake
+
+![Collage of some ferries we took on our time here](images/work_life_balance.jpg)
+*A compiled collage of some of my favorite meals in Australia*
+
+## Description 
+
+For each of my diary entries, I decided to make a collage of photos that relate to the specific topic or post I’m writing about. In this collage, I pulled together pictures of different foods and dishes I ate across the program, with a particular emphasis on multicultural and non-Australian cuisines. Highlights include Khao Soi (a Northern Thai dish), Bún Bò Nam Bộ (a Vietnamese beef noodle salad), and a traditional burrata mortadella sandwich.
+
+## Personal Description
+
+I’ve never felt a room have so much enthusiasm, joy, and sorrow as when I was watching the AFL finals in a sports bar in downtown Sydney. Picture this: people standing on chairs, standing on tables, and shouting from on top of their mate’s shoulders. Beer is being splashed everywhere. Loud shouting from the basement floor to the top floor. And three very, very confused Americans sitting in the corner, shellshocked by the whole experience. The vibe, for lack of a better phrase, was absolutely electric. With the game underway, the sports betting was going crazy, with people placing their bets on all sorts of sports (not just the AFL finals) on machines, their phones, and everything in between. I’ve never seen 
+
+Although the sports betting culture appears to be significant in Australia, it’s essential to acknowledge that this culture is grounded in a broader enthusiasm for all sports throughout the country, encompassing rugby, netball, and cricket. Sports culture is something that everyone can get around, and seems to represent Australian unity even when individual sports teams may be divided. Individual teams are often tied to specific locations (Brisbane, Sydney teams, etc.), which allows community building and rallying behind a collective cause; this is something that everyone can get behind, from families to enthusiastic college students, and undoubtedly contributes to why sports culture is so dominant
+
+I really enjoyed throwing myself into the world of Australian sports, even as an outsider who didn’t know much going into these bars. Cheering for the Brisbane Lions (of course), trying to follow the rules of AFL in real time, and getting swept up in the shouting and collective groans made me feel unexpectedly connected to other fans in a way I haven’t really experienced before. I thought it was really cool, and I really enjoyed the experience of being pushed into engaging in new culture and a new environment. 
+
+## Course Connection
+
+	Sports culture is something we discussed in class to a certain extent, but it also indirectly connects to a lot of other Australian cultural themes and national attitudes. For instance, sports culture is a large source of national pride; As Australia is a relatively young country, having successful sports programs is seen as a victory for the underdog. Moments like Australia’s surprising World Cup performances or the famous Bradbury ice-skating win capture that underdog narrative perfectly, always somehow pulling off a win when no one expected it. I also think there is a sense of sports culture being beyond individuals and instead being a team effort, which I’m sure contributes a lot to the sense of having a strong national unity. `
   },
 ];
