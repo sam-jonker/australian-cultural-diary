@@ -110,7 +110,7 @@ On a personal level, these ferry rides have made me think a bit more about how t
 
 I think this ferry topic, although narrow, connects to many of the themes we discussed in our environmental protection lecture. The introduction of environmental protection initiatives undoubtedly slows the rate of development, and additional government focus on protecting important ecosystems like marginal reefs (such as Minjerribah) clearly prevents the large-scale development of these places. Separately, I also think ferries can both advance reconciliation and, at times, complicate Aboriginal representation. For example, the ferry to Minjerribah brings large numbers of tourists to the island; some choose to engage in cultural activities like Welcome to Country or Aboriginal eco-tours. On the other hand, easier access also brings tourists who ignore cultural protocols, wander into restricted areas, or treat the Country as just another backdrop for their Instagram story or something. It’s interesting to draw parallels between ongoing development in Australia and reconciliation efforts; increasing tourism and transit opportunities bring real benefits, but they also create new challenges that Australia has to navigate carefully. `
   },{
-    id: "6-sport-culture-in-australia",
+    id: "5-sport-culture-in-australia",
     title: "Going Up the Guts, and for Meat Pie: What sport is this?!",
     date: "2025-10-29",
     excerpt: "Reflections on sports culture, all the diffrent flavors of rugby, and national unity",
@@ -135,7 +135,7 @@ I really enjoyed throwing myself into the world of Australian sports, even as an
 
 	Sports culture is something we discussed in class to a certain extent, but it also indirectly connects to a lot of other Australian cultural themes and national attitudes. For instance, sports culture is a large source of national pride; As Australia is a relatively young country, having successful sports programs is seen as a victory for the underdog. Moments like Australia’s surprising World Cup performances or the famous Bradbury ice-skating win capture that underdog narrative perfectly, always somehow pulling off a win when no one expected it. I also think there is a sense of sports culture being beyond individuals and instead being a team effort, which I’m sure contributes a lot to the sense of having a strong national unity. `
   },{
-    id: "7-brown-lake-culture",
+    id: "6-brown-lake-culture",
     title: "The Cultural Clash of Brown Lake",
     date: "2025-11-18",
     excerpt: "Exploring how tourism interplays with Aboriginal claims to Brown Lake in Quandamooka Country",
@@ -150,14 +150,34 @@ For each of my diary entries, I decided to make a collage of photos that relate 
 
 ## Personal Description
 
-I’ve never felt a room have so much enthusiasm, joy, and sorrow as when I was watching the AFL finals in a sports bar in downtown Sydney. Picture this: people standing on chairs, standing on tables, and shouting from on top of their mate’s shoulders. Beer is being splashed everywhere. Loud shouting from the basement floor to the top floor. And three very, very confused Americans sitting in the corner, shellshocked by the whole experience. The vibe, for lack of a better phrase, was absolutely electric. With the game underway, the sports betting was going crazy, with people placing their bets on all sorts of sports (not just the AFL finals) on machines, their phones, and everything in between. I’ve never seen 
-
-Although the sports betting culture appears to be significant in Australia, it’s essential to acknowledge that this culture is grounded in a broader enthusiasm for all sports throughout the country, encompassing rugby, netball, and cricket. Sports culture is something that everyone can get around, and seems to represent Australian unity even when individual sports teams may be divided. Individual teams are often tied to specific locations (Brisbane, Sydney teams, etc.), which allows community building and rallying behind a collective cause; this is something that everyone can get behind, from families to enthusiastic college students, and undoubtedly contributes to why sports culture is so dominant
-
-I really enjoyed throwing myself into the world of Australian sports, even as an outsider who didn’t know much going into these bars. Cheering for the Brisbane Lions (of course), trying to follow the rules of AFL in real time, and getting swept up in the shouting and collective groans made me feel unexpectedly connected to other fans in a way I haven’t really experienced before. I thought it was really cool, and I really enjoyed the experience of being pushed into engaging in new culture and a new environment. 
+Our time on Minjerribah was amazing, and we had a wonderful time exploring around and learning about Aboriginal culture on both the island and throughout Moreton Bay. Tourism, especially in the past 50 years, has grown exponentially on the island: over 4 million tourists visit the island each year, with many deciding to visit Brown Lake, a beautiful brown-tinted lake located about 15 minutes from the ferry jetty. However, Brown Lake is a sacred site to the Quandamooka people; it represents a woman’s place only, a birthing place that’s supposed to be exclusive to women, as it was for thousands of years before colonization. As a result of this lack of education, most visitors arrive thinking they’re at a regular swimming hole, take instragram photos, splash around, and leave without ever realizing they may have just disrespected a sacred space.
+Although knowledge of Brown Lake being a sacred site is public information, both the local tourism board, the Queensland Government, and other government agencies refuse to protect the site. Even more egregious, in my view, is that any sign acknowledging the site or its cultural significance is also not allowed to be put up. Standing there, knowing that context while watching people dive in, I felt a weight mix of taking in beauty (as Jarred, one of our CE tutors, told us to) and feeling complicit in a pattern that sidelined the wishes of Traditional Owners. It was one of the moments on this program that most clearly showed me how tourism, even when it looks harmless, can quietly override the boundaries and values of the people who were there first. I’m still not sure how to wrestle with these facts, especially in reference to us as tourists also (probably) not being welcome, but I figured a good first step was at least writing about it. 
 
 ## Course Connection
 
-	Sports culture is something we discussed in class to a certain extent, but it also indirectly connects to a lot of other Australian cultural themes and national attitudes. For instance, sports culture is a large source of national pride; As Australia is a relatively young country, having successful sports programs is seen as a victory for the underdog. Moments like Australia’s surprising World Cup performances or the famous Bradbury ice-skating win capture that underdog narrative perfectly, always somehow pulling off a win when no one expected it. I also think there is a sense of sports culture being beyond individuals and instead being a team effort, which I’m sure contributes a lot to the sense of having a strong national unity. `
+While we discussed what reconstruction strategies look like in class, I think there is a big difference between sweeping reconciliation efforts (Paul Rudd’s apology, land acknowledgments) and specific, targeted reconciliation efforts. While both are important and should be done, I think the Brown Lake situation provides a great example of why reconciliation can fail. Directly conflicted with a reduction in tourist revenue, the government has decided that providing another lake for tourists to swim in takes absolute precedence over Aboriginal rights and cultural heritage. This is, in my view, beyond disrespectful, and I think it makes things like land or Country acknowledgments very performative, purely because they provide the “easy” route to reconciliation rather than actually challenging our actions. There’s a religious quote that I like that goes “it is easy to say we believe, but real faith is not proven by words alone.`
+  },{
+    id: "7-heron-reef-sunscreen",
+    title: "Reef Safe Sunscreen? Rule-following and Environmental Protection",
+    date: "2025-11-18",
+    excerpt: "Why don’t Australians use reef-safe sunscreen? Why are some rules more followed than others?",
+    content: `# Reef Safe Sunscreen? Rule-following and Environmental Protection
+
+![Collage of some ferries we took on our time here](images/work_life_balance.jpg)
+*A compiled collage of some of my favorite meals in Australia*
+
+## Description 
+
+A collection of photos I took while on Heron Island. I honestly didn’t have a lot of photos of the reef-safe sunscreen in question (on Heron), so I pulled a couple of photos online and included them in the collage. 
+
+## Personal Description
+
+Without a doubt, one of the things that puzzled me the most about coming to Australia was the complete and utter lack of reef-safe sunscreen. For those who don’t know, reef-safe sunscreen is like the name suggests: sunscreen that is specifically designed to not damage coral reefs, like many sunscreen products normally sold. Chemicals like oxybenzone, octinoxate, octocrylene, and general parabens have been directly linked to increased coral bleaching. In Hawaii, for example, wearing normal sunscreen that contains these chemicals can result in massive fines and potential jail time, and is actively enforced on many beaches. 
+For a country that is known for 1) having excessive amounts of sun, UV radiation, and sunburns and 2) having one of the most pristine and fragile coral reefs in the world, it bewilders me that no reef-safe sunscreen requirements are enforced. Even stranger is that the provided sunscreen we just spent two weeks using on Heron Island has oxybenzone in it! After Carter and I asked, none of the tutors or professors were really familiar with the concept of reef-safe sunscreen—despite being coral reef ecologists?! 
+In my view, it would make so much sense to ban these chemicals in sunscreens, or at least restrict or ban them entirely on beaches or in the ocean. As Australians are rigid rule followers, I think a policy like Hawaii’s sunscreen ban could be profoundly impactful, especially as Australians are generally quite protective of the Great Barrier Reef. I assume, and generally would like to believe, that most Australins would be morally inclined to protect if either educated about the bleaching potential of sunscreen or if there was simply just a ban enforced. Anyways, this was something I really wanted to write about in my cultural diary because I simply don’t understand it in the slightest. 
+
+## Course Connection
+
+	Yes! I know what you’re thinking…surely this has a limited connection to our AS course? Haha! Yes, it does. We talked in lecture about environmental conservation efforts and general government regulation. Australia’s environment is unfortunately in a rapid decline, and current policy measures are difficult to pass, ineffective if passed, and otherwise meet lots of difficulty protecting critical ecosystems in light of global warming. As we also talked about, environmental activism is big in Australia, with many Millennials and Generation Z people being very passionate about the environment.`
   },
 ];
