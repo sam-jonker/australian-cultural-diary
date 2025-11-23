@@ -116,7 +116,7 @@ I think this ferry topic, although narrow, connects to many of the themes we dis
     excerpt: "Reflections on sports culture, all the diffrent flavors of rugby, and national unity",
     content: `# Going Up the Guts, and for Meat Pie: What sport is this?!
 
-![Collage of some ferries we took on our time here](images/work_life_balance.jpg)
+![Collage of some ferries we took on our time here](images/sports_culture.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
@@ -179,5 +179,28 @@ In my view, it would make so much sense to ban these chemicals in sunscreens, or
 ## Course Connection
 
 	Yes! I know what you’re thinking…surely this has a limited connection to our AS course? Haha! Yes, it does. We talked in lecture about environmental conservation efforts and general government regulation. Australia’s environment is unfortunately in a rapid decline, and current policy measures are difficult to pass, ineffective if passed, and otherwise meet lots of difficulty protecting critical ecosystems in light of global warming. As we also talked about, environmental activism is big in Australia, with many Millennials and Generation Z people being very passionate about the environment.`
+  },{
+    id: "8-casino-gambling",
+    title: "Australia (doesn’t) Fold: Gambling and Sports Betting",
+    date: "2025-11-18",
+    excerpt: "My reflections on (and experience with) gambling and sports betting in Brisbane",
+    content: `# Australia (doesn’t) Fold: Gambling and Sports Betting
+
+![Collage of some ferries we took on our time here](images/casino.jpg)
+*A compiled collage of some of my favorite meals in Australia*
+
+## Description 
+
+A series of photos from our night out in Brisbane when we went to the Star Casino. We grabbed Korean food beforehand and then somehow ended up winning almost $20 AUD, despite never having played roulette before. For a group of people basically guessing where to put our chips, it felt a little too lucky. I think we’re accidentally good at gambling…strange….
+
+## Personal Description
+
+I’ve never considered myself much of a gambling kind of guy. Although I’ve visited Casinos before, I haven’t found it that fun and subsequently never really got into the poker (or gambling) culture either. So when Fino suggested that we visit the Brisbane casino on the night before our cultural diaries were due, I figured I could knock out my last entry the next day, and decided it was my time to see what all the fuss was about. Alongside Madhav, Fino, and Jake (our Union College RM), we went ot Star Casino, played a bunch of $2.50 buy-in roulette and blackjack, got some great Korean food, and then went home at 2 A.M. 
+I don’t think it's controversial to say that Australia is pretty big on betting, especially sports betting. It seems like every bar we go into also has a dedicated betting area, with always a couple of people sitting in the corner betting on greyhound or horse racing. Luckily, it seems to be a very social activity. At bars and the casino, rarely did we see anyone betting alone. Instead, it was usually couples or groups of friends all betting together, having a fun time. Based on what I say, gambling in Australia seems to be much more of a social activity rather than just being an outlet in itself
+However, what surprised me most wasn’t the gambling itself, but how quickly the casino environment got under my skin. It was really loud and felt mildly disorienting: no clocks, no windows, just a constant noise of machines and loud conversations; the whole ambience made it hard to tell how long we’d been in there. It was easy to understand how someone be engaged with gambling (especially with their friends), telling themselves that the next spin they’d win big For me, the fun came mostly from being there with friends, laughing when we made ridiculous bets or forgot the rules, but it also made me more aware of where the line might be between “social night out” and something much heavier was. 
+
+## Course Connection
+
+	As we talked about in class, Australia has a large gambling problem. Yes, it’s a form of entertainment, but Australian gambling is the single largest per capita loss in the world, representing over $25 billion worth of loss. Australia is a very developed country, and with increased salaries and general welfare of Australians, discretionary spending tends to rise; this results in significant losses in sports betting and gambling. While legislation is attempting to regulate gambling better in the country, the problem still remains. `
   },
 ];
