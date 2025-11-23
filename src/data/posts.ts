@@ -14,7 +14,7 @@ export const posts: BlogPost[] = [
     excerpt: "Exploring the connection between culinary adaptation, multiculturalism, and shared national values through food.",
     content: `# Food and Multiculturalism in Australia
 
-![Collage of multicultural food in Australia](images/australian-cafe.jpg)
+![Collage of multicultural food in Australia](images/food.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
@@ -41,7 +41,7 @@ In our AS course, we’ve discussed how colonization, immigration, and the const
     excerpt: "Reflections on Australia’s surf culture, volunteer-based surf lifesaving clubs, and why surfing is just so damn popular here",
     content: `# Surf Culture and Life Saving Clubs
 
-![Collage of Surf Clubs and Beachs I've visited](images/aboriginal-art.jpg)
+![Collage of Surf Clubs and Beachs I've visited](images/life_saving_clubs.jpg)
 
 ## Background
 
@@ -60,12 +60,12 @@ In addition to providing surf and jetski-based ocean rescue, the clubs also run 
 At first glance, surf lifesaving clubs might not seem closely connected to our Australian Studies course, but they actually reflect many of the same societal themes. Over the decades, these clubs have mirrored broader shifts in Australian society, including the move toward multiculturalism and pluralism that we’ve discussed in class. While surf lifesaving was initially male-dominated and relatively exclusive, the movement has gradually embraced wider participation, including outreach to recent migrants, efforts to recognise and incorporate Aboriginal heritage and water knowledge, and a broader push to promote inclusion and safety for all beachgoers."`
   }, {
     id: "3work-life-balance-in-australia",
-    title: "Let’s Grab a Coffee? Work-life Balance in Australia",
+    title: "Let's Grab a Coffee? Work-life Balance in Australia",
     date: "2025-9-26",
     excerpt: "Reflecting on socialization and the work-life balance between Australia and US; TLDR Australia wins",
     content: `# Work-life-balance in Australia
 
-![Collage of multicultural food in Australia](images/australian-cafe.jpg)
+![Collage of multicultural food in Australia](images/food.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
@@ -91,7 +91,7 @@ In our AS course, we’ve discussed how colonization, immigration, and the const
     excerpt: "Reflecting on socialization and the work-life balance between Australia and US; TLDR Australia wins",
     content: `# Work-life-balance in Australia
 
-![Collage of multicultural food in Australia](images/australian-cafe.jpg)
+![Collage of multicultural food in Australia](images/work_life_balance.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
