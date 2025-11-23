@@ -353,7 +353,7 @@ At the same time, the center also reminded me that this progress is uneven and s
   {
     id: "8-casino-gambling",
     title: "Australia (doesn’t) Fold: Gambling and Sports Betting",
-    date: "2025-11-18",
+    date: "2025-11-23",
     excerpt: "My reflections on (and experience with) gambling and sports betting in Brisbane",
     content: `# Australia (doesn’t) Fold: Gambling and Sports Betting
 
