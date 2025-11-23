@@ -8,40 +8,31 @@ export interface BlogPost {
 
 export const posts: BlogPost[] = [
   {
-    id: "welcome-to-australia",
-    title: "Welcome to Australia: First Impressions",
-    date: "2025-11-10",
-    excerpt: "My first week in Australia has been filled with surprises, from the friendly locals to the unique wildlife.",
+    id: "food-in-australia",
+    title: "The Magic Pudding: Food, Ingredients, and National Identity",
+    date: "2025-9-26",
+    excerpt: "Exploring the connection between culinary adaptation, multiculturalism, and shared national values through food.",
     content: `# Welcome to Australia: First Impressions
 
-My first week in Australia has been filled with surprises and new experiences. Coming from a different culture, I've noticed so many interesting differences in daily life here.
+![Collage of multicultural food in Australia](images/australian-cafe.jpg)
+*A compiled collage of some of my favorite meals in Australia*
 
-## The People
+## Description 
 
-Australians are incredibly friendly and laid-back. The concept of "no worries" isn't just a saying - it's genuinely part of the culture. People seem to take life at a more relaxed pace, which is refreshing.
+For each of my diary entries, I decided to make a collage of photos that relate to the specific topic or post I’m writing about. In this collage, I pulled together pictures of different foods and dishes I ate across the program, with a particular emphasis on multicultural and non-Australian cuisines. Highlights include Khao Soi (a Northern Thai dish), Bún Bò Nam Bộ (a Vietnamese beef noodle salad), and a traditional burrata mortadella sandwich.
 
-## Coffee Culture
+## Personal Description
 
-I was surprised to learn that Australia has a serious coffee culture. They take their flat whites and long blacks very seriously! The cafe scene here is vibrant and social.
+If you should know anything about me, it’s that I love food; one of my biggest passions is cooking, and I love sharing meals with friends and family. Much like how some people travel to visit museums or major landmarks, I travel for food. I enjoy learning about new places through the lens of what foods are eaten, respected, and culturally cherished.
 
-![Australian cafe with flat white coffee](images/australian-cafe.jpg)
-*A typical Australian cafe - where coffee is taken very seriously*
+During my first few weeks in Sydney, I’ve been fascinated by the sheer range of cuisines, food staples, and beloved national dishes around the city. Similar to the United States, which doesn’t have a single, isolated culinary identity, Australia seems to define its food culture as an amalgamation of multicultural dishes rooted in its complex history: meat pies from England, Chiko Rolls inspired by Chinese spring rolls, Vegemite created as a local answer to Marmite, and Spaghetti Bolognese adapted from traditional southern Italian pastas. In Sydney, I was able to try Marmite for the first time, Chiko Rolls, and a frankly ridiculous amount of Spaghetti Bolognese.
 
-## Wildlife Encounters
+Like food itself, which naturally reflects deep multicultural connections, the Australian emphasis on healthy, “pure” ingredients shows up in many of the dishes that have been adapted here. For example, the popular hamburger chain Grill’d emphasizes local, “no frills” ingredients, heavily branding itself around “100% natural” food and claiming to serve some of the healthiest burgers in Australia. If anything, this seems reflective of Australia’s “bush” origins and extensive ranching and cattle industry. Australia’s identity is deeply grounded in its agricultural and pastoralist backgrounds, and it feels likely that this focus on natural ingredients and a more holistic approach to food stems from that.
 
-Even in the city, you can spot cockatoos, kookaburras, and possums. It's amazing how wildlife is integrated into urban life here.
 
-![Cockatoo in urban setting](images/cockatoo-urban.jpg)
-*A sulphur-crested cockatoo I spotted in the city - these beautiful birds are everywhere!*
+## Course Connection
 
-## Language Quirks
-
-- "Arvo" means afternoon
-- "Servo" is a gas station
-- "Brekky" is breakfast
-- Everything gets shortened!
-
-I'm excited to continue documenting my cultural observations throughout this journey.`
+In our AS course, we’ve discussed how colonization, immigration, and the construction of a collective national identity are central themes in Australian society and history. British colonization and imperial expansion in the 18th century brought strong cultural influences, including foods, dishes, and crops that had not previously existed on the continent, creating the first major wave of culinary (and cultural) introduction. Over the next two centuries, many additional waves of immigration—from Pacific Islanders, Southeast and South Asians, and numerous other communities—reshaped the country. Although these immigrant groups often faced discrimination, their foods gradually became beloved, incorporated, and celebrated. Food becomes one visible way to imagine and sustain multiculturalism, which is a critical cornerstone of contemporary Australia and a major theme of our course.`
   },
   {
     id: "aboriginal-art-experience",
