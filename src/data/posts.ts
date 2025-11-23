@@ -163,7 +163,7 @@ While we discussed what reconstruction strategies look like in class, I think th
     excerpt: "Why don’t Australians use reef-safe sunscreen? Why are some rules more followed than others?",
     content: `# Reef Safe Sunscreen? Rule-following and Environmental Protection
 
-![Collage of some ferries we took on our time here](images/work_life_balance.jpg)
+![Collage of some ferries we took on our time here](images/sunscreen.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
