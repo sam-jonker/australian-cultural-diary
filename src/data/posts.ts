@@ -225,7 +225,7 @@ When I went back the next day, I was honestly amazed by how thorough and alive t
 
 Celebrating Quandamooka culture and Aboriginal culture more broadly was a recurring theme in our class. From the 1967 Referendum to Kevin Rudd’s national apology, we traced a gradual movement from official exclusion and silence to acknowledgment, and now toward more active forms of celebration and empowerment. Places like QUAMPI feel like a concrete expression of that shift: they don’t just “include” Aboriginal stories as an add‑on, they are Aboriginal‑designed, Aboriginal‑led spaces that make those stories the starting point.
 At the same time, the center also reminded me that this progress is uneven and still unfolding. While national moments (like ANZAC moments) are important, it’s local institutions like QUAMPI that actually shape how visitors and younger generations encounter Aboriginal culture in everyday life. Seeing a purpose‑built cultural centre on Minjerribah made me more optimistic about the future of representation on the island, and in Australia as a whole. `
-  },,{
+  },{
     id: "10-dunes-coastal-erosion",
     title: "Why Dunes go Bye-Bye? Coastal Development and Beach Erosion",
     date: "2025-11-05",
