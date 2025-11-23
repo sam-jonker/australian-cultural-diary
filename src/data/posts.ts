@@ -202,5 +202,51 @@ However, what surprised me most wasn’t the gambling itself, but how quickly th
 ## Course Connection
 
 	As we talked about in class, Australia has a large gambling problem. Yes, it’s a form of entertainment, but Australian gambling is the single largest per capita loss in the world, representing over $25 billion worth of loss. Australia is a very developed country, and with increased salaries and general welfare of Australians, discretionary spending tends to rise; this results in significant losses in sports betting and gambling. While legislation is attempting to regulate gambling better in the country, the problem still remains. `
-  },
+  },{
+    id: "9-gumpi-center",
+    title: "Celebrating Past, Present, and Future: Gumpi Cultural Center",
+    date: "2025-11-10",
+    excerpt: "How cultural erasure turned into cultural celebration and the future of Aboriginal representation ",
+    content: `# Celebrating Past, Present, and Future: Gumpi Cultural Center
+
+![Collage of some ferries we took on our time here](images/gumpi.jpg)
+*A compiled collage of some of my favorite meals in Australia*
+
+## Description 
+
+A series of photos from our night out in Brisbane when we went to the Star Casino. We grabbed Korean food beforehand and then somehow ended up winning almost $20 AUD, despite never having played roulette before. For a group of people basically guessing where to put our chips, it felt a little too lucky. I think we’re accidentally good at gambling…strange….
+
+## Personal Description
+
+Our time on Minjerribah has been amazing. We learned so much about coastal ecology—seagrass beds, mangrove forests, oyster reefs, and more. Beyond Western ecology, we also spent time learning about the Quandamooka people’s connection to Country, and how they understand and care for both coastal and terrestrial environments as Traditional Owners. One afternoon, on a run, I passed a large mob of kangaroos and eventually stopped in front of a striking new building proudly named QUAMPI, the Quandamooka Arts and Culture Centre in Gumpi.
+When I went back the next day, I was honestly amazed by how thorough and alive the whole center felt, especially given it had been open for only about a week. The QUAMPI building wasn’t just an art gallery; it was a full cultural hub: a meeting place, learning space, and office base for QYAC and other Aboriginal organisations on the island. Some exhibitions wove together history, language, and contemporary art, spaces clearly reserved for community and Elders, and areas set up for performances, workshops, and conversations. Walking through it, it felt like an active resistance against the erasure we talked about in class: instead of Aboriginal culture being pushed to the margins, this was a space where it sat confidently at the centre, setting the terms of how visitors are welcomed into Quandamooka Country.
+
+## Course Connection
+
+Celebrating Quandamooka culture and Aboriginal culture more broadly was a recurring theme in our class. From the 1967 Referendum to Kevin Rudd’s national apology, we traced a gradual movement from official exclusion and silence to acknowledgment, and now toward more active forms of celebration and empowerment. Places like QUAMPI feel like a concrete expression of that shift: they don’t just “include” Aboriginal stories as an add‑on, they are Aboriginal‑designed, Aboriginal‑led spaces that make those stories the starting point.
+At the same time, the center also reminded me that this progress is uneven and still unfolding. While national moments (like ANZAC moments) are important, it’s local institutions like QUAMPI that actually shape how visitors and younger generations encounter Aboriginal culture in everyday life. Seeing a purpose‑built cultural centre on Minjerribah made me more optimistic about the future of representation on the island, and in Australia as a whole. `
+  },,{
+    id: "10-dunes-coastal-erosion",
+    title: "Why Dunes go Bye-Bye? Coastal Development and Beach Erosion",
+    date: "2025-11-05",
+    excerpt: "Our experience living by the coast, and reflections on the impacts of coastal developments",
+    content: `# Why Dunes go Bye-Bye? Coastal Development and Beach Erosion
+    
+![Collage of some ferries we took on our time here](images/gumpi.jpg)
+*A compiled collage of some of my favorite meals in Australia*
+
+## Description 
+
+A series of photos from our night out in Brisbane when we went to the Star Casino. We grabbed Korean food beforehand and then somehow ended up winning almost $20 AUD, despite never having played roulette before. For a group of people basically guessing where to put our chips, it felt a little too lucky. I think we’re accidentally good at gambling…strange….
+
+## Personal Description
+
+Our time on Minjerribah has been amazing. We learned so much about coastal ecology—seagrass beds, mangrove forests, oyster reefs, and more. Beyond Western ecology, we also spent time learning about the Quandamooka people’s connection to Country, and how they understand and care for both coastal and terrestrial environments as Traditional Owners. One afternoon, on a run, I passed a large mob of kangaroos and eventually stopped in front of a striking new building proudly named QUAMPI, the Quandamooka Arts and Culture Centre in Gumpi.
+When I went back the next day, I was honestly amazed by how thorough and alive the whole center felt, especially given it had been open for only about a week. The QUAMPI building wasn’t just an art gallery; it was a full cultural hub: a meeting place, learning space, and office base for QYAC and other Aboriginal organisations on the island. Some exhibitions wove together history, language, and contemporary art, spaces clearly reserved for community and Elders, and areas set up for performances, workshops, and conversations. Walking through it, it felt like an active resistance against the erasure we talked about in class: instead of Aboriginal culture being pushed to the margins, this was a space where it sat confidently at the centre, setting the terms of how visitors are welcomed into Quandamooka Country.
+
+## Course Connection
+
+Celebrating Quandamooka culture and Aboriginal culture more broadly was a recurring theme in our class. From the 1967 Referendum to Kevin Rudd’s national apology, we traced a gradual movement from official exclusion and silence to acknowledgment, and now toward more active forms of celebration and empowerment. Places like QUAMPI feel like a concrete expression of that shift: they don’t just “include” Aboriginal stories as an add‑on, they are Aboriginal‑designed, Aboriginal‑led spaces that make those stories the starting point.
+At the same time, the center also reminded me that this progress is uneven and still unfolding. While national moments (like ANZAC moments) are important, it’s local institutions like QUAMPI that actually shape how visitors and younger generations encounter Aboriginal culture in everyday life. Seeing a purpose‑built cultural centre on Minjerribah made me more optimistic about the future of representation on the island, and in Australia as a whole. `
+  }
 ];
