@@ -85,13 +85,13 @@ On a more personal level, experiencing (and living in) a completely different so
 
 In our AS course, we’ve discussed how colonization, immigration, and the construction of a collective national identity are central themes in Australian society and history. British colonization and imperial expansion in the 18th century brought strong cultural influences, including foods, dishes, and crops that had not previously existed on the continent, creating the first major wave of culinary (and cultural) introduction. Over the next two centuries, many additional waves of immigration—from Pacific Islanders, Southeast and South Asians, and numerous other communities—reshaped the country. Although these immigrant groups often faced discrimination, their foods gradually became beloved, incorporated, and celebrated. Food becomes one visible way to imagine and sustain multiculturalism, which is a critical cornerstone of contemporary Australia and a major theme of our course.`
   },{
-    id: "4-life-balance-in-australia",
-    title: "Let’s Grab a Coffee? Work-life Balance in Australia",
-    date: "2025-9-26",
-    excerpt: "Reflecting on socialization and the work-life balance between Australia and US; TLDR Australia wins",
-    content: `# Work-life-balance in Australia
+    id: "4-ferries-and-infrastructure-in-australia",
+    title: "Ferry This, Ferry That: Alternative Transportation in Australia",
+    date: "2025-11-03",
+    excerpt: "Some assorted thoughts on all our delays, fun ferry trips, and how infrastructure changes our journey",
+    content: `# Ferries and Infrastructure in Australia
 
-![Collage of multicultural food in Australia](images/work_life_balance.jpg)
+![Collage of some ferries we took on our time here](images/work_life_balance.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
@@ -100,15 +100,14 @@ For each of my diary entries, I decided to make a collage of photos that relate 
 
 ## Personal Description
 
-If you should know anything about me, it’s that I love food; one of my biggest passions is cooking, and I love sharing meals with friends and family. Much like how some people travel to visit museums or major landmarks, I travel for food. I enjoy learning about new places through the lens of what foods are eaten, respected, and culturally cherished.
+Outside of this program, one of my main fields of interest is transportation and energy economics. So when I looked at the schedule and saw that we had eight different ferry trips planned, I was really excited. Compared to Australia, the United States has pretty minimal ferry infrastructure; most of our coastline is continuous, without major island chains off big cities, and we obviously don’t have anything like the Great Barrier Reef. The US mainly uses ferries for tourist destinations and fun day trips, but ferries in Australia are instead critical for commuters, students, and researchers; for example, the Heron Island ferry is essential for the research station, and the Minjerribah ferry is vital for high school students and everyday commuters alike.
 
-During my first few weeks in Sydney, I’ve been fascinated by the sheer range of cuisines, food staples, and beloved national dishes around the city. Similar to the United States, which doesn’t have a single, isolated culinary identity, Australia seems to define its food culture as an amalgamation of multicultural dishes rooted in its complex history: meat pies from England, Chiko Rolls inspired by Chinese spring rolls, Vegemite created as a local answer to Marmite, and Spaghetti Bolognese adapted from traditional southern Italian pastas. In Sydney, I was able to try Marmite for the first time, Chiko Rolls, and a frankly ridiculous amount of Spaghetti Bolognese.
+To me, the heavy reliance on ferries signals a mild skepticism toward building massive infrastructure projects like bridges and causeways in sensitive coastal areas. If the Queensland government really wanted a massive bridge linking Brisbane’s mainland to Minjerribah, it could probably find a way to justify it, especially with the steady stream of tourists heading over each year on the current services. K’gari comes to mind as a great example of this. Part of the reward of exploring the island is that it remains relatively uninhabited and protected, and the reliance on ferries and limited access helps keep it that way.
 
-Like food itself, which naturally reflects deep multicultural connections, the Australian emphasis on healthy, “pure” ingredients shows up in many of the dishes that have been adapted here. For example, the popular hamburger chain Grill’d emphasizes local, “no frills” ingredients, heavily branding itself around “100% natural” food and claiming to serve some of the healthiest burgers in Australia. If anything, this seems reflective of Australia’s “bush” origins and extensive ranching and cattle industry. Australia’s identity is deeply grounded in its agricultural and pastoralist backgrounds, and it feels likely that this focus on natural ingredients and a more holistic approach to food stems from that.
-
+On a personal level, these ferry rides have made me think a bit more about how transport shapes the way I value the different places we visit on this trip. There’s something about having to catch a specific boat, check the tide or weather, and watch the mainland slowly recede that makes the destination feel less disposable or “one-off”. I think the specific friction of the journey, and the fact that you can’t just hop in a car and drive over, creates a natural speed bump against overdevelopment and massive crowds. Strangely, I think I’ve come to really enjoy the slight disruption and hassle in our different transit days; It makes me appreciate each place we visit a little more, and the journey isn’t half too bad either. 
 
 ## Course Connection
 
-In our AS course, we’ve discussed how colonization, immigration, and the construction of a collective national identity are central themes in Australian society and history. British colonization and imperial expansion in the 18th century brought strong cultural influences, including foods, dishes, and crops that had not previously existed on the continent, creating the first major wave of culinary (and cultural) introduction. Over the next two centuries, many additional waves of immigration—from Pacific Islanders, Southeast and South Asians, and numerous other communities—reshaped the country. Although these immigrant groups often faced discrimination, their foods gradually became beloved, incorporated, and celebrated. Food becomes one visible way to imagine and sustain multiculturalism, which is a critical cornerstone of contemporary Australia and a major theme of our course.`
+I think this ferry topic, although narrow, connects to many of the themes we discussed in our environmental protection lecture. The introduction of environmental protection initiatives undoubtedly slows the rate of development, and additional government focus on protecting important ecosystems like marginal reefs (such as Minjerribah) clearly prevents the large-scale development of these places. Separately, I also think ferries can both advance reconciliation and, at times, complicate Aboriginal representation. For example, the ferry to Minjerribah brings large numbers of tourists to the island; some choose to engage in cultural activities like Welcome to Country or Aboriginal eco-tours. On the other hand, easier access also brings tourists who ignore cultural protocols, wander into restricted areas, or treat the Country as just another backdrop for their Instagram story or something. It’s interesting to draw parallels between ongoing development in Australia and reconciliation efforts; increasing tourism and transit opportunities bring real benefits, but they also create new challenges that Australia has to navigate carefully. `
   },
 ];
