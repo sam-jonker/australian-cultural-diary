@@ -141,7 +141,7 @@ I really enjoyed throwing myself into the world of Australian sports, even as an
     excerpt: "Exploring how tourism interplays with Aboriginal claims to Brown Lake in Quandamooka Country",
     content: `# The Cultural Clash of Brown Lake
 
-![Collage of some ferries we took on our time here](images/work_life_balance.jpg)
+![Collage of some ferries we took on our time here](images/brown_lake.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
