@@ -13,9 +13,22 @@ const PostCard = ({ post }: PostCardProps) => {
     day: "numeric"
   });
 
+  // Extract first image from markdown content
+  const imageMatch = post.content.match(/!\[.*?\]\((.*?)\)/);
+  const coverImage = imageMatch ? imageMatch[1] : null;
+
   return (
     <Link to={`/post/${post.id}`} className="block">
-      <Card className="hover:shadow-lg transition-all duration-300 hover:-translate-y-1 h-full">
+      <Card className="hover:shadow-lg transition-all duration-300 hover:-translate-y-1 h-full overflow-hidden">
+        {coverImage && (
+          <div className="aspect-video w-full overflow-hidden">
+            <img 
+              src={coverImage} 
+              alt={post.title}
+              className="w-full h-full object-cover"
+            />
+          </div>
+        )}
         <CardHeader>
           <CardTitle className="text-xl">{post.title}</CardTitle>
           <CardDescription>{formattedDate}</CardDescription>
