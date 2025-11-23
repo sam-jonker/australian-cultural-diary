@@ -116,7 +116,7 @@ I think this ferry topic, although narrow, connects to many of the themes we dis
     excerpt: "Reflections on sports culture, all the diffrent flavors of rugby, and national unity",
     content: `# Going Up the Guts, and for Meat Pie: What sport is this?!
 
-![Collage of some ferries we took on our time here](images/sports_culture.jpg)
+![Collage of some ferries we took on our time here](images/sport_culture.jpg)
 *A compiled collage of some of my favorite meals in Australia*
 
 ## Description 
